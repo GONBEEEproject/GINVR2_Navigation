@@ -1782,7 +1782,9 @@ TextMesh:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 738385391}
-  m_Text: "8\n\u30E2\u30C4/\u30D4\u30B6"
+  m_Text: '8
+
+    Mark-On'
   m_OffsetZ: 0
   m_CharacterSize: 0.01
   m_LineSpacing: 1
