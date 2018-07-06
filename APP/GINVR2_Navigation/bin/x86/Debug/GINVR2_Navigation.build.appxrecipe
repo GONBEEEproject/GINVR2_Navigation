@@ -450,6 +450,9 @@
     <AppxPackagedFile Include="D:\Unity\GINVR2_Navigation\APP\GINVR2_Navigation\UnityEngine.TilemapModule.dll">
       <PackagePath>UnityEngine.TilemapModule.dll</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Unity\GINVR2_Navigation\APP\GINVR2_Navigation\UnityEngine.TextRenderingModule.dll">
+      <PackagePath>UnityEngine.TextRenderingModule.dll</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Unity\GINVR2_Navigation\APP\GINVR2_Navigation\UnityEngine.UNETModule.dll">
       <PackagePath>UnityEngine.UNETModule.dll</PackagePath>
     </AppxPackagedFile>
@@ -458,9 +461,6 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Unity\GINVR2_Navigation\APP\GINVR2_Navigation\UnityEngine.UIElementsModule.dll">
       <PackagePath>UnityEngine.UIElementsModule.dll</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Unity\GINVR2_Navigation\APP\GINVR2_Navigation\UnityEngine.TextRenderingModule.dll">
-      <PackagePath>UnityEngine.TextRenderingModule.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Unity\GINVR2_Navigation\APP\GINVR2_Navigation\UnityEngine.SpriteShapeModule.dll">
       <PackagePath>UnityEngine.SpriteShapeModule.dll</PackagePath>
@@ -477,17 +477,17 @@
     <AppxPackagedFile Include="D:\Unity\GINVR2_Navigation\APP\GINVR2_Navigation\UnityEngine.StyleSheetsModule.dll">
       <PackagePath>UnityEngine.StyleSheetsModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Unity\GINVR2_Navigation\APP\GINVR2_Navigation\UnityEngine.UnityAnalyticsModule.dll">
-      <PackagePath>UnityEngine.UnityAnalyticsModule.dll</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Unity\GINVR2_Navigation\APP\GINVR2_Navigation\UnityEngine.WebModule.dll">
-      <PackagePath>UnityEngine.WebModule.dll</PackagePath>
-    </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Unity\GINVR2_Navigation\APP\GINVR2_Navigation\UnityEngine.VRModule.dll">
       <PackagePath>UnityEngine.VRModule.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Unity\GINVR2_Navigation\APP\GINVR2_Navigation\UnityEngine.VideoModule.dll">
       <PackagePath>UnityEngine.VideoModule.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Unity\GINVR2_Navigation\APP\GINVR2_Navigation\UnityEngine.VehiclesModule.dll">
+      <PackagePath>UnityEngine.VehiclesModule.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Unity\GINVR2_Navigation\APP\GINVR2_Navigation\UnityEngine.WebModule.dll">
+      <PackagePath>UnityEngine.WebModule.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Unity\GINVR2_Navigation\APP\GINVR2_Navigation\UnityEngine.XRModule.dll">
       <PackagePath>UnityEngine.XRModule.dll</PackagePath>
@@ -495,17 +495,17 @@
     <AppxPackagedFile Include="D:\Unity\GINVR2_Navigation\APP\GINVR2_Navigation\UnityEngine.WindModule.dll">
       <PackagePath>UnityEngine.WindModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Unity\GINVR2_Navigation\APP\GINVR2_Navigation\UnityEngine.VehiclesModule.dll">
-      <PackagePath>UnityEngine.VehiclesModule.dll</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Unity\GINVR2_Navigation\APP\GINVR2_Navigation\UnityEngine.UnityWebRequestAudioModule.dll">
-      <PackagePath>UnityEngine.UnityWebRequestAudioModule.dll</PackagePath>
-    </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Unity\GINVR2_Navigation\APP\GINVR2_Navigation\UnityEngine.UnityWebRequestAssetBundleModule.dll">
       <PackagePath>UnityEngine.UnityWebRequestAssetBundleModule.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Unity\GINVR2_Navigation\APP\GINVR2_Navigation\UnityEngine.UnityConnectModule.dll">
       <PackagePath>UnityEngine.UnityConnectModule.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Unity\GINVR2_Navigation\APP\GINVR2_Navigation\UnityEngine.UnityAnalyticsModule.dll">
+      <PackagePath>UnityEngine.UnityAnalyticsModule.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Unity\GINVR2_Navigation\APP\GINVR2_Navigation\UnityEngine.UnityWebRequestAudioModule.dll">
+      <PackagePath>UnityEngine.UnityWebRequestAudioModule.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Unity\GINVR2_Navigation\APP\GINVR2_Navigation\UnityEngine.UnityWebRequestWWWModule.dll">
       <PackagePath>UnityEngine.UnityWebRequestWWWModule.dll</PackagePath>
@@ -516,14 +516,17 @@
     <AppxPackagedFile Include="D:\Unity\GINVR2_Navigation\APP\GINVR2_Navigation\UnityEngine.UnityWebRequestModule.dll">
       <PackagePath>UnityEngine.UnityWebRequestModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Unity\GINVR2_Navigation\APP\GINVR2_Navigation\UnityEngine.CrashReportingModule.dll">
-      <PackagePath>UnityEngine.CrashReportingModule.dll</PackagePath>
-    </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Unity\GINVR2_Navigation\APP\GINVR2_Navigation\UnityEngine.CoreModule.dll">
       <PackagePath>UnityEngine.CoreModule.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Unity\GINVR2_Navigation\APP\GINVR2_Navigation\UnityEngine.ClothModule.dll">
       <PackagePath>UnityEngine.ClothModule.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Unity\GINVR2_Navigation\APP\GINVR2_Navigation\UnityEngine.AudioModule.dll">
+      <PackagePath>UnityEngine.AudioModule.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Unity\GINVR2_Navigation\APP\GINVR2_Navigation\UnityEngine.CrashReportingModule.dll">
+      <PackagePath>UnityEngine.CrashReportingModule.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Unity\GINVR2_Navigation\APP\GINVR2_Navigation\UnityEngine.GameCenterModule.dll">
       <PackagePath>UnityEngine.GameCenterModule.dll</PackagePath>
@@ -534,14 +537,14 @@
     <AppxPackagedFile Include="D:\Unity\GINVR2_Navigation\APP\GINVR2_Navigation\UnityEngine.DirectorModule.dll">
       <PackagePath>UnityEngine.DirectorModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Unity\GINVR2_Navigation\APP\GINVR2_Navigation\UnityEngine.AudioModule.dll">
-      <PackagePath>UnityEngine.AudioModule.dll</PackagePath>
-    </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Unity\GINVR2_Navigation\APP\GINVR2_Navigation\UnityEngine.AIModule.dll">
       <PackagePath>UnityEngine.AIModule.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Unity\GINVR2_Navigation\APP\GINVR2_Navigation\UnityEngine.AccessibilityModule.dll">
       <PackagePath>UnityEngine.AccessibilityModule.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Unity\GINVR2_Navigation\APP\GINVR2_Navigation\Assembly-CSharp.dll">
+      <PackagePath>Assembly-CSharp.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Unity\GINVR2_Navigation\APP\GINVR2_Navigation\UnityEngine.AssetBundleModule.dll">
       <PackagePath>UnityEngine.AssetBundleModule.dll</PackagePath>
@@ -552,17 +555,17 @@
     <AppxPackagedFile Include="D:\Unity\GINVR2_Navigation\APP\GINVR2_Navigation\UnityEngine.AnimationModule.dll">
       <PackagePath>UnityEngine.AnimationModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Unity\GINVR2_Navigation\APP\GINVR2_Navigation\UnityEngine.GridModule.dll">
-      <PackagePath>UnityEngine.GridModule.dll</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Unity\GINVR2_Navigation\APP\GINVR2_Navigation\UnityEngine.Physics2DModule.dll">
-      <PackagePath>UnityEngine.Physics2DModule.dll</PackagePath>
-    </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Unity\GINVR2_Navigation\APP\GINVR2_Navigation\UnityEngine.PerformanceReportingModule.dll">
       <PackagePath>UnityEngine.PerformanceReportingModule.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Unity\GINVR2_Navigation\APP\GINVR2_Navigation\UnityEngine.ParticleSystemModule.dll">
       <PackagePath>UnityEngine.ParticleSystemModule.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Unity\GINVR2_Navigation\APP\GINVR2_Navigation\UnityEngine.ParticlesLegacyModule.dll">
+      <PackagePath>UnityEngine.ParticlesLegacyModule.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Unity\GINVR2_Navigation\APP\GINVR2_Navigation\UnityEngine.Physics2DModule.dll">
+      <PackagePath>UnityEngine.Physics2DModule.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Unity\GINVR2_Navigation\APP\GINVR2_Navigation\UnityEngine.SharedInternalsModule.dll">
       <PackagePath>UnityEngine.SharedInternalsModule.dll</PackagePath>
@@ -573,14 +576,14 @@
     <AppxPackagedFile Include="D:\Unity\GINVR2_Navigation\APP\GINVR2_Navigation\UnityEngine.PhysicsModule.dll">
       <PackagePath>UnityEngine.PhysicsModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Unity\GINVR2_Navigation\APP\GINVR2_Navigation\UnityEngine.ParticlesLegacyModule.dll">
-      <PackagePath>UnityEngine.ParticlesLegacyModule.dll</PackagePath>
+    <AppxPackagedFile Include="D:\Unity\GINVR2_Navigation\APP\GINVR2_Navigation\UnityEngine.ImageConversionModule.dll">
+      <PackagePath>UnityEngine.ImageConversionModule.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Unity\GINVR2_Navigation\APP\GINVR2_Navigation\UnityEngine.GridModule.dll">
+      <PackagePath>UnityEngine.GridModule.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Unity\GINVR2_Navigation\APP\GINVR2_Navigation\UnityEngine.IMGUIModule.dll">
       <PackagePath>UnityEngine.IMGUIModule.dll</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Unity\GINVR2_Navigation\APP\GINVR2_Navigation\UnityEngine.ImageConversionModule.dll">
-      <PackagePath>UnityEngine.ImageConversionModule.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Unity\GINVR2_Navigation\APP\GINVR2_Navigation\UnityEngine.JSONSerializeModule.dll">
       <PackagePath>UnityEngine.JSONSerializeModule.dll</PackagePath>
